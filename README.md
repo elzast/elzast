@@ -35,7 +35,7 @@
 </td>
 
 <td valign="top" width="50%">
-<h2 align="center"><i>How to reach me ...</i></h2>
+<h2 align="center"><i>📫How to reach me ...</i></h2>
 
  <ul>
  <li><a href="https://www.linkedin.com/in/elijahzstone/">LinkedIn</a></li>
