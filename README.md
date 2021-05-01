@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<h2 align="center">📊 <i<Github Stats ...</i></h2>
+<h2 align="center"><i>📊Github Stats ...</i></h2>
 <img align="left" src="https://i.ibb.co/G0WwPk4/Screen-Shot-2021-05-01-at-11-46-43-AM.png">
 </td>
 
